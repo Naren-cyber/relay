@@ -125,7 +125,7 @@ function App({commits, lastRelease}) {
             lastRelease={lastRelease}
             commits={commits}
             selectedCategories={selectedCategories}
-          />
+          </>
         </section>
       </div>
     </>
